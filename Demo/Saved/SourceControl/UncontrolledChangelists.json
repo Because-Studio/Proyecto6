@@ -5,7 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/GitHub_Repository/Proyecto6/Demo/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+				"E:/GitHub_Repository/Proyecto6/Demo/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"E:/GitHub_Repository/Proyecto6/Demo/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
 	]
