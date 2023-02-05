@@ -7,7 +7,20 @@
 			"files": [
 				"E:/GitHub_Repository/Proyecto6/Demo/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
 				"E:/GitHub_Repository/Proyecto6/Demo/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"E:/GitHub_Repository/Proyecto6/Demo/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+				"E:/GitHub_Repository/Proyecto6/Demo/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"E:/GitHub_Repository/Proyecto6/Demo/Content/StarterContent/Audio/Collapse01.uasset",
+				"E:/GitHub_Repository/Proyecto6/Demo/Content/BP/LocalGameController.uasset",
+				"E:/GitHub_Repository/Proyecto6/Demo/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"E:/GitHub_Repository/Proyecto6/Demo/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/GitHub_Repository/Proyecto6/Demo/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"E:/GitHub_Repository/Proyecto6/Demo/Content/BP/Pawn_SelectPlayer.uasset",
+				"E:/GitHub_Repository/Proyecto6/Demo/Content/BP/UI/BP_UI.uasset",
+				"E:/GitHub_Repository/Proyecto6/Demo/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter1.uasset",
+				"E:/GitHub_Repository/Proyecto6/Demo/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter2.uasset",
+				"E:/GitHub_Repository/Proyecto6/Demo/Content/ThirdPerson/Blueprints/BP_GenericCharacter.uasset",
+				"E:/GitHub_Repository/Proyecto6/Demo/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter1_3.uasset",
+				"E:/GitHub_Repository/Proyecto6/Demo/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter3.uasset",
+				"E:/GitHub_Repository/Proyecto6/Demo/Content/BP/UI/BP_UI2.uasset"
 			]
 		}
 	]
